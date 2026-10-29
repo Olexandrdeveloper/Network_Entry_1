@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Network_Entry/Network_Entry.csproj" />
+  <Project Path="Network_Entry_Client/Network_Entry_Client.csproj" Id="321020a5-a43a-4f45-9c86-04aa4bf9b1e5" />
+</Solution>
